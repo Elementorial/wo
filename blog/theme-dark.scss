@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+// Base document colors
+
+$bg-dark: rgba(48, 48, 48, 1) !important;
+.navbar {
+    background-color: $bg-dark;
+}
+.quarto-title-banner {
+    background-color: $bg-dark;
+}

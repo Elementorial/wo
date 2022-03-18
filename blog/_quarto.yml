@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Worldview Outreach"
+  navbar:
+    right:
+      - index.qmd
+      - ./about/about.qmd
+format:
+  html:
+    theme:
+      dark: [darkly, theme-dark.scss]
+      light: flatly
+    css: styles.css
+
+
+

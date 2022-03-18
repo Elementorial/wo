@@ -1,0 +1,39 @@
+---
+Title: Is Baptism Required For Salvation?
+Categories: [salvation, baptism]
+draft: true
+---
+
+# Is Baptism Required For Salvation?
+
+## Pulled from redeemedRelationships
+
+> <r r="Acts 2 38">"Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost." (Acts 2:38)</r>
+
+##### What does "For the remission of sins" mean?
+The word "for" here in the phrase "for the remission of sins" is translated from the Greek word "eis". As with many sections of the word, there's a division between many believers about what this word means, and the different interpretations lead people to believe differently about what is required for salvation. This is because "for" has different meanings depending on the context. Some take the interpretation, "Repent and be baptized in order to obtain the remission of your sins."; others take, "Repent and be baptized in response to the remission of your sins.". As it's often explained, one can take medicine for an ailment; in this example, "for" means in response to the ailment, not to obtain the ailment. Our modern English dialects would tend to lend to Acts 2:38 meaning, "to obtain", but I believe it has to be interpreted, "in response to". There are actually a few words that change how this verse is interpreted, depending on the assumed definition: "for", which I mentioned, "baptism", and "remission". However, the definitions chosen for "baptism" and "remission" correspond to the way "for" is interpreted, so the complexity isn't too large to attempt to explain here.
+
+If "for" is interpreted as "to obtain", then the "and" in "repent and be baptized" seems to make sense. With this interpretation, the verse seems to say "Repent, and then be baptized, and then you're considered saved." Aside from the fact that "remission" has been changed to "saved" in this interpretation (I'll examine "remission" later), baptism is also asserted as being required for salvation. Under this interpretation, if repentance is required for salvation, then baptism is as well. So, if we can prove that baptism isn't required for the remission of sins, then we can also know that repentance isn't required for it. This interpretation requires tThis this until one realizes that faith is the sole requirement to obtain salvation.
+
+If baptism was necessary, no one in the old testament would be justified, Romans 4 5.
+
+Repentance isn't required for forgiveness, because the prerequisite to forgiveness is confession. Repentance comes after confession. **explain what this means**.
+
+Is it possible for repentance to come without forgiveness? **Answer after defining repentance**. I suppose, but forgiveness happens immediately when you put your faith in Christ, and your repentance continues afterward. Since this verse seems to say to do it in response to forgiveness, I at least see forgiveness as a motivating factor to beginning your repentance; after having been justified against the eternal wrath of God, repenting to Him and living within his will is exciting. If one were to confess, and still be awaiting condemnation, repentance would seem pointless.
+
+The different interpretations of the word "for" in Acts 2:38 also lead to different interpretation of what "remission" means.
+
+https://evidenceforchristianity.org/what-is-the-meaning-of-the-greek-word-eis-in-acts-238-could-it-mean-because-of/
+https://www.gotquestions.org/baptism-Acts-2-38.html
+https://youtu.be/AbhZgh7gDYI
+- This interpretation of Acts 2:38 necessitates certain interpretations of verses concerning baptism; the nature of these interpretations is that baptism is not required for salvation.
+	- Mark 16 16 - concerning the word "and" in "repent and be baptized". Some say "and" is just a declaration of something a believer will do as a matter of course, since it's not mentioned in the  next verse, and this makes sense to me. Some also say that this baptism is the baptism of the holy Spirit, rather than the baptism in water. This also seems to make sense because believers now receive the holy spirit upon their placement of faith for salvation in Christ. Could it be taken that baptism is left out of the statement about the condemned because it's implicit that they wouldn't be baptized.
+	- mention: if salvation is dependent on baptism, I could put my faith in God for salvation, go to receive baptism, and then be imprisoned and isolation to prevent my salvation from happening.
+		- Example: Criminal beside Jesus who confessed, and recognized Jesus's kingdom was told he'd be in paradise without baptism.
+	- <a>Link to saved by grace through faith article</a>
+	- Mention that many believers in the old testament weren't confirmed to be baptized before their death. Why was baptism not mentioned from the beginning, then, and why wasn't it's place more significant throughout the old testament as a whole? <a>Link to old testament salvation</a>
+	- baptism is a form of circumcision, Colossians 2 11 12. What does this mean since Romans 4:11 says, "He received the sign of circumcision as a seal of the righteousness that he had by faith while he was still uncircumcised."
+
+Does this mean that we must repent and be baptized to be saved? If so, would this not contradict Paul's assertion that salvation is by grace through faith, and not of works<r c="Ephesians 2 8 9">@Ephesians_2:8-9</r>? A solid understanding of confession, forgiveness, and repentance - along with some analysis of Greek - should lead us to understand what the verse means.
+
+More evidence that eis means "coming as a result of": <r r="mt 3 11">"I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:" (Matthew 3:11)</r>

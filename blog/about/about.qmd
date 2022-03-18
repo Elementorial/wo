@@ -1,0 +1,21 @@
+---
+title: "About"
+bibliography: merged.bib
+csl: ../posts/vancouver_superscript.csl
+# image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/Elementorial
+---
+
+I hope to share important biblical concepts here.
+
+Bible quotations are generated from the World English Bible translation to avoid any potential licensing issues, and promote ease of reading. The King James Version is also usable, but is harder to read. I don't see a reason to only use the KJV @mark_ward_maurice_2024.
+
+There aren't comment sections on the posts, but questions and corrections can be submitted on the GitHub repository.
+
+My writing syntax is often verbose, containing quotations with trailing periods, e.g., "Such as this.".
+

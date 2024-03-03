@@ -108,10 +108,9 @@
   <macro name="container-title">
     <choose>
       <if type="article-journal article-magazine chapter paper-conference article-newspaper review review-book entry-dictionary entry-encyclopedia" match="any">
-        <group suffix="." delimiter=" ">
-          <choose>
+        <group suffix="." delimiter=" "> <choose>
             <if type="article-journal review review-book" match="any">
-              <text variable="container-title" form="short" strip-periods="true"/>
+              <text variable="container-title" form="short"/>
             </if>
             <else>
               <text variable="container-title" strip-periods="true"/>

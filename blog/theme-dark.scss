@@ -8,3 +8,11 @@ $bg-dark: rgba(48, 48, 48, 1) !important;
 .quarto-title-banner {
     background-color: $bg-dark;
 }
+
+p a {
+	color: rgb(123, 255, 209) !important;
+}
+
+blockquote {
+  border-left-color: rgb(100, 100, 100) !important;
+}

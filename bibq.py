@@ -205,6 +205,7 @@ def main():
 
         accumulator = ''
         for key in citation_verses:
+            citation_verses[key] = citation_verses[key].replace('{','\\{').replace('}','\\}')
             accumulator += f'@article{{{key}, journal = {{{citation_verses[key]}}}}}\n' 
         aggregate_file.writelines(in_file.readlines())
         aggregate_file.writelines(accumulator)

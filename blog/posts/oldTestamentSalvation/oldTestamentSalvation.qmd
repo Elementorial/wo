@@ -6,67 +6,68 @@ draft: true
 ---
 # Old Testament Salvation
 
-&emsp;Someone once mentioned the idea to me that people who had died before Jesus died couldn't have been saved. This idea has always troubled me since Christians say our faith in Christ's work is what saves us from wrath. I wondered whether God had somehow left the people in the old testament out of the salvation of Christ. How could God essentially say, “I simply couldn’t save you in time through faith alone.”, if he is all powerful? Were these people in the old testament saved by following the law, then? Paul will speak against this. We know Jesus existed from the beginning of Time because God says,
+&emsp;Someone once mentioned an idea to me --- that people who had died before Jesus made his life sacrifice couldn't have been saved. This idea has always troubled me since Christians say our faith in Christ's work is what saves us from wrath. I wondered whether God had somehow left the people in the old testament out of the salvation of Christ. How could God seem to say, “I simply couldn’t save you in time through faith alone.”, if he is all powerful? Were these people in the old testament saved by following the law, then? Paul will speak against this.
 
-> <r r="gn 1 26">God said, "Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the cattle, and over all the earth, and over every creeping thing that creeps on the earth." (Genesis 1:26)</r>
-
-“Let us create man…”. This makes God plural, meaning the trinity existed from the beginning.
-
-I've heard some say this verse is speaking about the heavenly assembly of God and his angels, perhaps with the justification that mankind is made in the image of God, and that angels may appear as humans:
-
-> <r r="heb 13 2">Don't forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. (Hebrews 13:2)</r>
-
-To stay on topic though, I'll give another reference to show Jesus existed with God before the world existed.
+We know Christ existed before any human because he existed before the world. We know this because he says,
 
 ><r r="John 17 5">Now, Father, glorify me with your own self with the glory which I had with you before the world existed. (John 17:5)</r>
 
 Because Jesus existed before the world, His promise was always there to put faith for salvation in; people just didn’t know He was the messiah until He had shown himself to be.
 
-&emsp;Abraham’s faith was counted as righteousness in Romans 4:3, which references Genesis 15:6:
+## Abraham justified through faith
+&emsp;Abraham’s faith was counted as righteousness in Romans 4:3, which references Genesis 15:6<r c="gn 15 6">@Genesis_15:6</r>:
 
 > <r r="ro 4 3">For what does the Scripture say? "Abraham believed God, and it was accounted to him for righteousness." (Romans 4:3)</r>
 
-Romans 4:6-8 also references Psalm 32:1-2 in saying,
+Romans 4:6-8 also references Psalm 32:1-2<r c="ps 32 1 2">@Psalms_32:1-2</r> in saying,
 
 > <r r="ro 4 6 8">Even as David also pronounces blessing on the man to whom God counts righteousness apart from works, "Blessed are they whose iniquities are forgiven, Whose sins are covered. Blessed is the man whom the Lord will by no means charge with sin." (Romans 4:6-8)</r>
 
-These verses from Psalm are important because they were written long before Christ, yet they show that Abraham was still counted as righteous. How could this be? It was through his faith in God's promises that he was saved.
+These verses from Psalm are important because they were written long before Christ came into the world, yet they show that Abraham was still counted as righteous through faith. We can see it was through his faith that he was saved. So, what was his faith in?
 
-&emsp;There were two related topics that go together with Galatians 3. These two topics are salvation through faith in the seed which is Christ (the seed concept being the subject of focus), and also that our salvation comes only and completely from faith in Christ.
+> <r r="ro 4 13">For the promise to Abraham and to his seed that he should be heir of the world wasn't through the law, but through the righteousness of faith. (Romans 4:13)</r>
 
-Both ideas of salvation by faith alone, and Christ as the seed are mentioned here when Paul says in Galatians 3:18,
+So, his faith was in God's promise, and the promise was that the seed of Abraham, "He" (Christ), would be heir of the world. We also see clarification that the promise itself is specifically to Christ:
 
-> <r r="ga 3 18">For if the inheritance is of the law, it is no more of promise; but God has granted it to Abraham by promise. (Galatians 3:18)</r>
+> <r r="ga 3 16">Now the promises were spoken to Abraham and to his seed. He doesn't say, "To seeds," as of many, but as of one, "To your seed," which is Christ. (Galatians 3:16)</r>
 
-So, what is that promise of the inheritance? I was reminded of the concept of the promise of the seed in Galatians 3, and had to go revisit it because the promise is referring to Jesus, who is older than the old testament.
+---
 
-Backing up a couple verses, 16-17 say,
-
-> <r r="ga 3 16 17">Now the promises were spoken to Abraham and to his seed. He doesn't say, "To seeds," as of many, but as of one, "To your seed," which is Christ. Now I say this. A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect. (Galatians 3:16-17)</r>
-
-These verses are related to salvation before Christ because they’re saying the promise given to Abraham was to Christ, who has existed from the beginning. This means God's promise of salvation through faith was always available through faith in Him. Anyone who put their faith in God for their redemption even before Christ’s death were putting their faith in Christ. How? The promise of the seed which is Christ was given to Abraham and his descendants, and so by putting their faith in that promise (or God's redemption of themselves), they were putting their faith in Christ because God and Jesus are one in the Trinity. The promise was one of the fulfillment of Christ’s work; He offered it to be accepted by faith in Him, and God could do this since Christ is God, so God knew Christ would fulfill the promise of His sacrifice. Paul also says the law does not invalidate this covenant of salvation through Christ. Perhaps he says this because some would wonder how Christ could free us from the law. However, Paul understands that this promise of Christ came well before the law, and the law cannot invalidate that promise which existed from the beginning. In fact, the law was given in order to bring our attention to this promise of Christ and assure us of our need for Him. The law should drive us to put our faith in Christ for our salvation:
-
-> <r r="ga 3 24 27">So that the law has become our tutor to bring us to Christ, that we might be justified by faith. But now that faith has come, we are no longer under a tutor. For you are all children of God, through faith in Christ Jesus. For as many of you as were baptized into Christ have put on Christ. (Galatians 3:24-27)</r>
-
-&emsp;Before continuing, I wanted to address these references to the seed of Abraham. I was confused because Paul says the word ‘seed’ in Genesis is singular to refer to Jesus. However, it’s used in the plural in some translations. This led me to research what exactly he meant because some people see that the translation to a plural word, often as "descendants", is contradictory to what Paul says in Galatians 3 about the term being singular. I've heard that the word for seed is interpretable as both singular and plural in Hebrew and Greek, similar to English. There are several references to the seed of Abraham<r c="gn 12 7, gn 13 15 16, gn 15 5, gn 22 18, gn 26 3 4, gn 28 13 14">[@Genesis_12:7; @Genesis_13:15-16; @Genesis_15:5; @Genesis_22:18; @Genesis_26:3-4; @Genesis_28:13-14]</r>, but from the phrasing, Paul seems to be referencing,
+&emsp;Before continuing, I wanted to address these references to the seed of Abraham. I was confused because Paul says the word ‘seed’ in Genesis is singular to refer to Jesus. However, it’s used in the plural in some translations. This led me to research what exactly he meant because some people see that the translation to a plural word, often as "descendants", is contradictory to what Paul says in Galatians 3 about the term being singular. I've heard that the word for seed is interpretable as both singular and plural in Hebrew and Greek, similar to English, and it seems Paul recognized the double meaning of this word somewhere. There are several references to the seed of Abraham<r c="gn 12 7, gn 13 15 16, gn 15 5, gn 22 18, gn 26 3 4, gn 28 13 14">[@Genesis_12:7; @Genesis_13:15-16; @Genesis_15:5; @Genesis_22:18; @Genesis_26:3-4; @Genesis_28:13-14]</r>, but from the phrasing, Paul seems to be referencing,
 
 > <r r=" gn 22 18">In your seed will all the nations of the earth be blessed, because you have obeyed my voice." (Genesis 22:18)</r>
 
-It's clear here that the singular tense is possible, and it seems to be the underlying meaning that Paul is sharing. The word for descendants is “seed” in Hebrew, and translations using "offspring" keep the possible plurality as well; however, others translate it as "descendants". This loses the singular meaning that Paul was sharing about.
+It's clear here that the singular tense is possible, and this seems to be the underlying meaning that Paul is sharing. Translations using "offspring" keep the possible singularity as well; however, others translate it as "descendants". This loses the singular meaning that Paul was sharing about.
 
-&emsp;Galatians 3:6-9 say,
+---
+
+&emsp;Justification was possible before Christ because the promise given to Abraham was Christ, who has existed from the beginning. This means God's promise of salvation through faith was always available through faith in Him. Anyone who put their faith in God for their redemption even before Christ’s death were putting their faith in Christ. How? The promise of the seed which is Christ was given to Abraham and his seed (children of faith), and so by putting their faith in that promise (or God's redemption of themselves), they were putting their faith in Christ because God and Christ are one in the Trinity. The promise was one of the fulfillment of Christ’s work; He offered it to be accepted by faith in Him, and God could do this since Christ is God, so God knew Christ would fulfill the promise of His sacrifice.
+
+## We are made children of Abraham through faith
+&emsp;Paul shows us that this promise is extended to all those who are of faith, and that their faith makes them children of Abraham.
 
 > <r r="ga 3 6 9">Even as Abraham "believed God, and it was counted to him for righteousness." Know therefore that those who are of faith, the same are children of Abraham. The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Gospel beforehand to Abraham, saying, "In you all the nations will be blessed." So then, those who are of faith are blessed with the faithful Abraham. (Galatians 3:6-9)</r>
 
-Paul is relating these ideas of faith justifying Abraham, and also his descendants’(seed’s) ability to be justified through faith. Paul asserts that the seed is singularly referring to Christ. So, one of the promises to Abraham is the seed which is Christ, and this promise is offered to the seeds which are Abraham’s descendants. Paul is saying God's promise to Abraham was that Christ would bless all the nations of the Earth, and we know that He did this through Christ's life and blood sacrifice which was to pay for the sin of those who put their faith in Him. This was prophesied about as well,
+Paul is relating these ideas of faith justifying Abraham, and also his offspring’s (seed’s, or believers') ability to be justified through faith. He's saying it was through Christ’s power to justify that the promise to Abraham about his descendants would be fulfilled. To be one of the seeds of Abraham, you must simply have faith that God will redeem you from sin (through Christ, as we now know), and you inherit the promise of the kingdom. Romans says we're then co-heirs with Christ in this kingdom.
+
+> <r r="ro 8 16 17">The Spirit himself testifies with our spirit that we are children of God; and if children, then heirs; heirs of God, and joint-heirs with Christ; if indeed we suffer with him, that we may also be glorified with him. (Romans 8:16-17)</r>
+
+## Justification is not of the law
+&emsp;After noting that the seed of the promise is Christ, Paul continues, clarifying that this promise of Christ's inheritance came before the law, and is not of the law, meaning the law doesn't justify us.
+
+> <r r="ga 3 17 18">Now I say this. A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect. For if the inheritance is of the law, it is no more of promise; but God has granted it to Abraham by promise. (Galatians 3:17-18)</r>
+
+So, we know the justification of Old Testament believers didn't come from following the law. Also, Abraham existed before the law was even given. Paul also says the law does not invalidate this covenant of salvation through Christ. Perhaps he says this because some would wonder how Christ could free them from the law. However, Paul understands that this promise of Christ came well before the law, and the law cannot invalidate that promise which existed from the beginning. In fact, the law was given in order to bring our attention to this promise of Christ and assure us of our need for Him, since none of us could follow the law. The law should drive us to put our faith in Christ for our salvation:
+
+> <r r="ga 3 24 27">So that the law has become our tutor to bring us to Christ, that we might be justified by faith. But now that faith has come, we are no longer under a tutor. For you are all children of God, through faith in Christ Jesus. For as many of you as were baptized into Christ have put on Christ. (Galatians 3:24-27)</r>
+
+## The blessing of many nations, a sprinkling from Christ
+&emsp;God's promise to Abraham was that Christ would bless all the nations of the Earth, and we know that He did this through Christ's life and blood sacrifice which was to pay for the sin of those who put their faith in Him. This messiah, who is Christ, was prophesied about as well; Christ's blessing of many nations is here prophesied to be his sprinkling of many nations,
 
 > <r r="is 52 15">so shall he sprinkle many nations; kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they understand. (Isaiah 52:15)</r>
 
-So, this promise of justification before God through faith was offered to the descendants of Abraham before Christ was born on the Earth.
+which is signaled in the Old Testament with the sprinkling of the blood of animal sacrifices, which pointed forward to Christ. 
 
-This creates God's spiritual family is also represented as the seeds of Abraham. Jesus existed from the beginning of time and his purpose was always known, so his promise always existed, and could be accepted from the beginning of time though it still had to be physically fulfilled **Mention Abraham's bosom**. This promise which Paul speaks of is the inheritance of Abraham. God made many promises to Abraham, but one of them was justification by faith. How do we know justification through faith was promised to Abraham? Because of Galatians 3:9 above, and Romans 4:13, “For the promise to Abraham or to his descendants that he would be heir of the world was not through the Law, but through the righteousness of faith.” Paul is saying it was through Christ’s salvation that the promise to Abraham about his descendants would be fulfilled. It was through a spiritual inheritance in Christ that God’s promises to Abraham would be fulfilled, including their inheritance of the land, which I interpret in this context to mean God will build a kingdom through Christ. To be one of the seeds of Abraham, you must simply have faith that God will redeem you (through Christ, as we now know), and you inherit the promise of the kingdom.
+> <r r="le 16 15 16">"Then he shall kill the goat of the sin offering, that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat, and before the mercy seat: and he shall make atonement for the Holy Place, because of the uncleanness of the children of Israel, and because of their transgressions, even all their sins; and so he shall do for the Tent of Meeting, that dwells with them in the midst of their uncleanness. (Leviticus 16:15-16)</r>
 
-
-
-
-> <r r="ac 3 25">You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, 'In your seed will all the families of the earth be blessed.' (Acts 3:25)</r>
+God's promise that many nations would be blessed in Abraham's seed was fulfilled in Christ's sacrifice on the cross. His blood was the payment offered for our sins, and we receive this offering through faith. This promise of our justification to God through faith was offered before Christ was even born on the Earth, and it creates God's spiritual family, the so-called children of Abraham. Jesus existed before the world existed, and His purpose was always known to God, so God's promise of redemption existed for every person to put their faith in, and could be accepted from the beginning of time, though it still had to be physically fulfilled. It was prophesied of, and we know it was fulfilled in history; we see our God is true to His word.

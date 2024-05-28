@@ -1,8 +1,7 @@
 ---
 Title: Old Testament Salvation
-Categories: [salvation, old testament]
+Categories: [salvation, justification, old testament]
 bibliography: merged.bib
-draft: true
 ---
 # Old Testament Salvation
 

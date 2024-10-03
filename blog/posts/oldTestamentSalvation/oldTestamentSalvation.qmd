@@ -2,6 +2,7 @@
 Title: Old Testament Salvation
 categories: [salvation, justification, old testament]
 bibliography: merged.bib
+date: 2024-05-12
 ---
 # Old Testament Salvation
 
